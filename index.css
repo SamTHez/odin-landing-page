@@ -118,3 +118,21 @@ body {
     font-size: 18px;
     margin: 0;
 }
+
+#quote {
+    background-color: #e5e7eb;
+    padding: 80px;
+}
+
+#quoteText {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+    margin: 5% 15% 0;
+}
+
+#quoteAttribution {
+    text-align: right;
+    margin: 0 15%;
+}
